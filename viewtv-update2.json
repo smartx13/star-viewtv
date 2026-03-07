@@ -1,0 +1,7 @@
+{
+  "latest_version": 2,
+  "force_update": false,
+  "update_url": "https://example.com/app.apk",
+  "title": "Update Required",
+  "message": "New security update available. Please update now."
+}
